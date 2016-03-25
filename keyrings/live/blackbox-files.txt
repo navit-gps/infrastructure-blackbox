@@ -1,1 +1,2 @@
 webserver/id_rsa
+webserver/infos.txt
